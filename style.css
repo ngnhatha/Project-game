@@ -1,0 +1,42 @@
+*{
+  box-sizing: border-box;
+  font-family: 'Bangers', cursive;
+}
+
+
+body {
+  align-items: center;
+  justify-content: center;
+  background: #543855;
+  font-family: 'Bangers', cursive;
+}
+
+.page-title {
+  font-weight: normal;
+  text-align: center;
+  font-size: 300%;
+  letter-spacing: 2px
+}
+
+.row {
+  text-align: center;
+}
+
+.card {
+  display: inline block;
+  background-color: white;
+}
+
+/*
+Desert Sun
+#FBB574
+
+Tan
+#E88D72
+
+Purple Haze
+#543855
+
+Coral
+#FF8882
+*/
